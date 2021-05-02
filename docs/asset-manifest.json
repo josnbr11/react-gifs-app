@@ -8,8 +8,8 @@
     "static/js/2.31a10122.chunk.js": "./static/js/2.31a10122.chunk.js",
     "static/js/2.31a10122.chunk.js.map": "./static/js/2.31a10122.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ef2255bf22bfcc32e4947ff975a97df4.js": "/precache-manifest.ef2255bf22bfcc32e4947ff975a97df4.js",
-    "service-worker.js": "/service-worker.js",
+    "precache-manifest.ef2255bf22bfcc32e4947ff975a97df4.js": "./precache-manifest.ef2255bf22bfcc32e4947ff975a97df4.js",
+    "service-worker.js": "./service-worker.js",
     "static/css/main.e7a2418d.chunk.css.map": "./static/css/main.e7a2418d.chunk.css.map",
     "static/js/2.31a10122.chunk.js.LICENSE.txt": "./static/js/2.31a10122.chunk.js.LICENSE.txt"
   },
