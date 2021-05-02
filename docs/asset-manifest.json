@@ -14,9 +14,9 @@
     "static/js/2.31a10122.chunk.js.LICENSE.txt": "./static/js/2.31a10122.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29242b1d.js",
-    "static/js/2.31a10122.chunk.js",
-    "static/css/main.e7a2418d.chunk.css",
-    "static/js/main.cc4afc95.chunk.js"
+    "./static/js/runtime-main.29242b1d.js",
+    "./static/js/2.31a10122.chunk.js",
+    "./static/css/main.e7a2418d.chunk.css",
+    "./static/js/main.cc4afc95.chunk.js"
   ]
 }
